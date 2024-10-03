@@ -1,2 +1,1 @@
 Para crear proyecto --> dotnet new console -o NOMBREPROYECTO
-
