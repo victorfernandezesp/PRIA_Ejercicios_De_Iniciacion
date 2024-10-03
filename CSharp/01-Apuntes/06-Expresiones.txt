@@ -1,0 +1,99 @@
+
+Tipos de expresiones en C#
+
+1. Expresiones Literales:
+Son valores fijos que no cambian.
+Ejemplos:
+- 5 (entero)
+- 3.14 (decimal)
+- "Hola" (cadena de texto)
+- 'A' (carácter)
+- true o false (booleano)
+
+2. Expresiones de Variable:
+Son expresiones que contienen una variable. El valor de la variable es el resultado de la expresión.
+Ejemplo:
+- int x = 10;
+  var y = x;  // 'y' es una expresión que toma el valor de 'x', que es 10
+
+3. Expresiones Aritméticas:
+Realizan operaciones matemáticas sobre valores numéricos.
+Ejemplos:
+- a + b (suma)
+- x * 5 (multiplicación)
+- 10 / 3 (división)
+- 100 % 7 (módulo)
+
+4. Expresiones de Comparación:
+Retornan un valor booleano (true o false).
+Operadores de comparación:
+- == (igual)
+- != (diferente)
+- > (mayor que)
+- < (menor que)
+- >= (mayor o igual)
+- <= (menor o igual)
+Ejemplo:
+- int a = 5;
+  bool resultado = (a > 3);  // resultado es 'true'
+
+5. Expresiones Lógicas:
+Combinan valores booleanos mediante operadores lógicos.
+Operadores lógicos:
+- && (Y lógico)
+- || (O lógico)
+- ! (NO lógico)
+Ejemplo:
+- bool a = true;
+  bool b = false;
+  bool resultado = (a && b);  // resultado es 'false'
+
+6. Expresiones de Asignación:
+El valor de una variable es asignado mediante el operador '='.
+Ejemplo:
+- int x = 5;
+  int y = x + 10;  // 'y' es asignado a 15, que es el resultado de la expresión 'x + 10'
+
+7. Expresiones Condicionales (Ternarias):
+Es una forma abreviada de una instrucción 'if-else'.
+Sintaxis:
+- condición ? valor_si_true : valor_si_false;
+Ejemplo:
+- int edad = 18;
+  string mensaje = (edad >= 18) ? "Eres mayor de edad" : "Eres menor de edad";
+
+8. Expresiones de Invocación de Métodos:
+Invocan un método que devuelve un valor.
+Ejemplo:
+- int suma = Math.Abs(-5);  // Llama al método 'Abs' de la clase Math, que devuelve 5
+
+9. Expresiones de Acceso a Propiedades o Campos:
+Acceden a propiedades o campos de una clase, objeto o estructura.
+Ejemplo:
+- string nombre = persona.Nombre;  // 'persona.Nombre' es una expresión que obtiene el valor de la propiedad 'Nombre'
+
+10. Expresiones Lambda:
+Son una forma concisa de representar funciones anónimas.
+Sintaxis:
+- (parametros) => expresión;
+Ejemplo:
+- Func<int, int, int> suma = (a, b) => a + b;
+  int resultado = suma(3, 4);  // resultado es 7
+
+11. Expresiones de Inicialización:
+Permiten inicializar colecciones u objetos.
+Ejemplo de inicialización de una lista:
+- List<int> lista = new List<int> { 1, 2, 3, 4, 5 };
+
+12. Expresiones de Type-Casting:
+Permiten convertir un valor de un tipo a otro.
+Ejemplo:
+- double pi = 3.14;
+  int piEntero = (int)pi;  // Pi se convierte en 3
+
+13. Expresiones de Null-Coalescing:
+El operador de coalescencia nula (??) proporciona un valor por defecto si el primer valor es null.
+Ejemplo:
+- string nombre = null;
+  string resultado = nombre ?? "Desconocido";  // 'resultado' será "Desconocido"
+

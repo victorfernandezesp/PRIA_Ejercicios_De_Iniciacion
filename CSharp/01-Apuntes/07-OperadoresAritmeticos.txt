@@ -1,0 +1,53 @@
+
+Operadores Aritméticos en C# - Precedencia y Asociatividad
+
+1. Operadores Aritméticos:
+Estos son los operadores que permiten realizar cálculos matemáticos básicos:
+
+- `+` (Suma): Suma dos operandos.
+  Ejemplo: 5 + 3 = 8
+
+- `-` (Resta): Resta el segundo operando del primero.
+  Ejemplo: 5 - 3 = 2
+
+- `*` (Multiplicación): Multiplica dos operandos.
+  Ejemplo: 5 * 3 = 15
+
+- `/` (División): Divide el primer operando entre el segundo. Si ambos operandos son enteros, el resultado también será un entero. Si uno de los operandos es decimal, el resultado será decimal.
+  Ejemplo: 5 / 2 = 2 (división entera)
+           5.0 / 2 = 2.5
+
+- `%` (Módulo o residuo): Devuelve el resto de la división entre dos operandos.
+  Ejemplo: 5 % 2 = 1
+
+2. Precedencia de los Operadores Aritméticos:
+La precedencia determina el orden en que se evaluan los operadores en una expresión. Los operadores con mayor precedencia se ejecutan primero.
+
+Operador    | Descripción                  | Precedencia
+------------|------------------------------|-------------
+`*`, `/`, `%` | Multiplicación, división, módulo | 14
+`+`, `-`    | Suma, resta                   | 13
+
+3. Asociatividad de los Operadores Aritméticos:
+Los operadores aritméticos tienen **asociatividad de izquierda a derecha**, lo que significa que los operadores de igual precedencia se evaluarán de izquierda a derecha.
+
+Ejemplo 1:
+- Expresión: `10 / 2 * 3`
+  Primero se evalúa la división: `10 / 2 = 5`, luego la multiplicación: `5 * 3 = 15`.
+
+Ejemplo 2:
+- Expresión: `10 - 3 + 2`
+  Se evalúa de izquierda a derecha:
+  Primero se evalúa la resta: `10 - 3 = 7`, luego la suma: `7 + 2 = 9`.
+
+4. Uso de Paréntesis para Modificar la Precedencia:
+Los paréntesis tienen la **mayor precedencia** y pueden modificar el orden en que se evalúan las expresiones.
+
+Ejemplo:
+- Expresión: `5 + 3 * 2` (resultado: 11, porque primero se hace `3 * 2` y luego se suma `5`)
+- Expresión con paréntesis: `(5 + 3) * 2` (resultado: 16, porque primero se suma `5 + 3` y luego se multiplica por `2`)
+
+Resumen:
+- **Precedencia**: Define el orden de evaluación de los operadores.
+- **Asociatividad**: Los operadores aritméticos tienen asociatividad de izquierda a derecha.
+
