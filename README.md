@@ -4,7 +4,7 @@
 
 
 
-[CONTENIDO DE C#](C#/README.md)
+[CONTENIDO DE C#](CSharp/README.md)
 
 
 [CONTENIDO DE PYTHON](Python/README.md)
