@@ -1,0 +1,5 @@
+// OPERACIONES BÁSICAS CON CADENAS DE TEXTO (strings)
+
+string a = "GNU/";
+string b = "Linux";
+string c = a + b;  // Concatenación. Resultado: "GNU/Linux"
