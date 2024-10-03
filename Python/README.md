@@ -6,4 +6,4 @@
 
 [APUNTES PYTHON](01-Apuntes/)
 
-[EJERCICIOS VARIABLES](01-Variables/)
+[EJERCICIOS VARIABLES](02-Variables/)
