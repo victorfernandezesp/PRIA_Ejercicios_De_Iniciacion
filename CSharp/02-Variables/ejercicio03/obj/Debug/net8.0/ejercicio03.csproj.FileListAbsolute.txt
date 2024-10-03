@@ -1,0 +1,4 @@
+C:\Escritorio\Pria\C#\02-Variables\ejercicio03\obj\Debug\net8.0\ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\C#\02-Variables\ejercicio03\obj\Debug\net8.0\ejercicio03.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\C#\02-Variables\ejercicio03\obj\Debug\net8.0\ejercicio03.AssemblyInfo.cs
+C:\Escritorio\Pria\C#\02-Variables\ejercicio03\obj\Debug\net8.0\ejercicio03.csproj.CoreCompileInputs.cache

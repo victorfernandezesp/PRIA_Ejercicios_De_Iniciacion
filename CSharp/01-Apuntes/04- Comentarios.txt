@@ -1,0 +1,11 @@
+
+COMENTARIO ¿QUÉ ES?
+    Un comentario en programación es un texto que se incluye en el código fuente de un programa, pero que no es ejecutado por la computadora. Los comentarios se utilizan para añadir explicaciones, anotaciones o notas dentro del código, lo que ayuda a los programadores a entender mejor el código que han escrito o el código de otros. Los comentarios son útiles para documentar el propósito de ciertas partes del código, aclarar lógica compleja, o simplemente dejar recordatorios para el futuro.
+
+
+1. Comentarios de una sola línea
+Se usan para escribir comentarios breves en una sola línea. Para esto, se utiliza //.
+
+
+2. Comentarios de múltiples líneas
+Se utilizan cuando quieres hacer un comentario más largo o comentar varias líneas de código a la vez. Para esto, se utiliza /* */.

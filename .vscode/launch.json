@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: ejemploPizarra",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\C#\\ejemploPizarra\\ejemploPizarra.csproj",
+            "launchConfigurationId": "TargetFramework=;ejemploPizarra"
+        }
+    ]
+}

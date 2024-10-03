@@ -1,0 +1,19 @@
+1. Declaración de variables
+En C#, debes especificar el tipo de dato de la variable cuando la declaras. Aquí tienes algunos ejemplos básicos:
+
+// Declaración de variables
+    int edad = 25;        // Entero
+    double altura = 1.75;  // Decimal
+    bool esMayor = true;   // Booleano (verdadero o falso)
+    string nombre = "Juan"; // Cadena de texto (string)
+
+
+
+2. Tipos de datos
+Algunos de los tipos más comunes son:
+
+    int: Enteros (números sin decimales)
+    double: Números con decimales
+    bool: Valores lógicos (true o false)
+    char: Un solo carácter ('a', 'b', etc.)
+    string: Cadena de caracteres
