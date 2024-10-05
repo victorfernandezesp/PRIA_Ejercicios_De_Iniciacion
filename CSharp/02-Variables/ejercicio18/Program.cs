@@ -17,16 +17,16 @@ class Programa
         // Sin pasar como parámetros
         int numero1 = 5;
         int resultado1 = (numero1 % 2);
-        Console.WriteLine(new string('G', resultado1) + new string('N', resultado1) + new string('U', resultado1));
+        Console.WriteLine((resultado1 == 1) ? "GNU" : "\n");
 
         int numero2 = 4;
         int resultado2 = (numero2 % 2);
-        Console.WriteLine(new string('G', resultado2) + new string('N', resultado2) + new string('U', resultado2));
+        Console.WriteLine((resultado2 == 1) ? "GNU" : "\n");
 
         
         int numero3 = 11;
         int resultado3 = (numero3 % 2);
-        Console.WriteLine(new string('G', resultado3) + new string('N', resultado3) + new string('U', resultado3));
+        Console.WriteLine((resultado3 == 1) ? "GNU" : "\n");
         
 
 
@@ -38,7 +38,7 @@ class Programa
         int numeroA = Convert.ToInt32(input1);
         int resultado4 = (numeroA % 2);
 
-        Console.WriteLine(new string('G', resultado4) + new string('N', resultado4) + new string('U', resultado4));
+        Console.WriteLine((resultado4 == 1) ? "GNU" : "\n");
         
     }
 }
