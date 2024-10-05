@@ -1,0 +1,15 @@
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\bin\Debug\net8.0\ejercicio09.exe
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\bin\Debug\net8.0\ejercicio09.deps.json
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\bin\Debug\net8.0\ejercicio09.runtimeconfig.json
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\bin\Debug\net8.0\ejercicio09.dll
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\bin\Debug\net8.0\ejercicio09.pdb
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.AssemblyInfo.cs
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.csproj.CoreCompileInputs.cache
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.sourcelink.json
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.dll
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\refint\ejercicio09.dll
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.pdb
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ejercicio09.genruntimeconfig.cache
+C:\Escritorio\Pria\CSharp\02-Variables\ejercicio09\obj\Debug\net8.0\ref\ejercicio09.dll

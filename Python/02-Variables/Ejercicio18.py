@@ -12,19 +12,19 @@ print("Sin pasar como parámetros")
 
 
 numero1 = 5
-parimpar1 = (numero1%2==1)
-print("GNU"*parimpar1)
-print("------------------------------------------------------------------------" )
+parimpar1 = numero1 % 2
+print("GNU" * parimpar1)
+print("------------------------------------------------------------------------")
 
 numero2 = 4
-parimpar2 = (numero2%2==1)
-print("GNU"*parimpar2)
-print("------------------------------------------------------------------------" )
+parimpar2 = numero2 % 2 
+print("GNU" * parimpar2)
+print("------------------------------------------------------------------------")
 
 numero3 = 11
-parimpar3 = (numero3%2==1)
-print("GNU"*parimpar3)
-print("------------------------------------------------------------------------" )
+parimpar3 = numero3 % 2 
+print("GNU" * parimpar3)
+print("------------------------------------------------------------------------")
 
 
 # Pasando como parámetros
@@ -32,6 +32,6 @@ print("------------------------------------------------------------------------"
 print("Pasando como parámetros")
 
 numero1 = int(input("Escribe un numero:     "))
-parimpar1 = (numero1%2==1)
-print("GNU"*parimpar1)
-print("------------------------------------------------------------------------" )
+parimpar1 = numero1 % 2 
+print("GNU" * parimpar1)
+print("------------------------------------------------------------------------")
