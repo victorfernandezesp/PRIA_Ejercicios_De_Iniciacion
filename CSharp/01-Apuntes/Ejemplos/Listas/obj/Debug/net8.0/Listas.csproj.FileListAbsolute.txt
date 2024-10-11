@@ -1,0 +1,15 @@
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\bin\Debug\net8.0\Listas.exe
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\bin\Debug\net8.0\Listas.deps.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\bin\Debug\net8.0\Listas.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\bin\Debug\net8.0\Listas.pdb
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\refint\Listas.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.pdb
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Ejemplos\Listas\obj\Debug\net8.0\ref\Listas.dll

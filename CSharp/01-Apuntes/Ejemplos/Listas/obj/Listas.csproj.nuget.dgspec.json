@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Escritorio\\Pria\\CSharp\\ejemploPizarra\\ejemploPizarra.csproj": {}
+    "C:\\Escritorio\\Pria\\CSharp\\01-Apuntes\\Ejemplos\\Listas\\Listas.csproj": {}
   },
   "projects": {
-    "C:\\Escritorio\\Pria\\CSharp\\ejemploPizarra\\ejemploPizarra.csproj": {
+    "C:\\Escritorio\\Pria\\CSharp\\01-Apuntes\\Ejemplos\\Listas\\Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Escritorio\\Pria\\CSharp\\ejemploPizarra\\ejemploPizarra.csproj",
-        "projectName": "ejemploPizarra",
-        "projectPath": "C:\\Escritorio\\Pria\\CSharp\\ejemploPizarra\\ejemploPizarra.csproj",
+        "projectUniqueName": "C:\\Escritorio\\Pria\\CSharp\\01-Apuntes\\Ejemplos\\Listas\\Listas.csproj",
+        "projectName": "Listas",
+        "projectPath": "C:\\Escritorio\\Pria\\CSharp\\01-Apuntes\\Ejemplos\\Listas\\Listas.csproj",
         "packagesPath": "C:\\Users\\vicfe\\.nuget\\packages\\",
-        "outputPath": "C:\\Escritorio\\Pria\\CSharp\\ejemploPizarra\\obj\\",
+        "outputPath": "C:\\Escritorio\\Pria\\CSharp\\01-Apuntes\\Ejemplos\\Listas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vicfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

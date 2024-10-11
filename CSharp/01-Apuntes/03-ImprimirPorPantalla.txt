@@ -7,3 +7,4 @@
     int edad = 25;
     Console.WriteLine("La edad es: " + edad);
 
+    Console.WriteLine($"La edad es: {edad} ");
