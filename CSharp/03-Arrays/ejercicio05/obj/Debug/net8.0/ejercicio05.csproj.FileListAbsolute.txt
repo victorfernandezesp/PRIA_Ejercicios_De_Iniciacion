@@ -1,0 +1,15 @@
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\bin\Debug\net8.0\ejercicio05.exe
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\bin\Debug\net8.0\ejercicio05.deps.json
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\bin\Debug\net8.0\ejercicio05.runtimeconfig.json
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\bin\Debug\net8.0\ejercicio05.dll
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\bin\Debug\net8.0\ejercicio05.pdb
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.AssemblyInfo.cs
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.csproj.CoreCompileInputs.cache
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.sourcelink.json
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.dll
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\refint\ejercicio05.dll
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.pdb
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ejercicio05.genruntimeconfig.cache
+C:\Escritorio\Pria\CSharp\03-Arrays\ejercicio05\obj\Debug\net8.0\ref\ejercicio05.dll

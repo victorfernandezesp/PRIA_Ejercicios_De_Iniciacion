@@ -1,5 +1,6 @@
 """ 
-    12. En una matriz 3x3 de enteros, muestra la suma más alta de los números de una fila.
+    13. Muestra la fila de una matriz 3x3 de enteros cuya suma de números sea la más alta.
+
 
     @author Victor Fernandez España
 

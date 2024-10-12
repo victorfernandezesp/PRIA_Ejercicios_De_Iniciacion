@@ -33,6 +33,8 @@ class Programa
         string input3 = Console.ReadLine()?? "0";
         double numeroC = Convert.ToSingle(input3);
         
+
+        
         Console.WriteLine(numeroA + " + " + numeroB + " + " + numeroC + " = " + (numeroA + numeroB + numeroC));
 
     }

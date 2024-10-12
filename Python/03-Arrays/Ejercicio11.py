@@ -22,5 +22,6 @@ array.pop()
 array.reverse()
 array.pop()
 array.reverse()
+array.reverse()
 
 print(f"Array modificado:       {array}")

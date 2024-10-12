@@ -413,6 +413,10 @@ Type tipoAltitud2 = altitudStr2.GetType();    // Tipo: System.String
 ```
     Console.WriteLine(numeros.Count);  // Salida: 3
 ```
+#### REVERSE
+```
+            lista.Reverse();
+```
 
 #### ELIMINAR UN ELEMENTO
 Elimina la primera aparición de un valor en la lista.
@@ -447,6 +451,12 @@ Devuelve true si un elemento está presente en la lista, de lo contrario false.
 
 ```
     numeros.Clear();
+```
+
+#### CONVERTIR UNA LISTA DE STRING A INT
+
+```
+    List<int> listaEnteros = listaStrings.ConvertAll(int.Parse);
 ```
 
 
