@@ -7,3 +7,4 @@
 [APUNTES C#](01-Apuntes/Apuntes.md)
 
 [EJERCICIOS VARIABLES](02-Variables/)
+[EJERCICIOS LISTAS](03-Arrays/)
