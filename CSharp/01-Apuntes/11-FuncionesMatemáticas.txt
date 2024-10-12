@@ -1,2 +1,0 @@
-- Math.PI
-- Math.Pow(numero a elevar, numero elevado)
