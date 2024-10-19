@@ -32,17 +32,17 @@
         }
 ```
 ## COMENTARIOS
-#### COMENTARIO ¿QUÉ ES?
+### COMENTARIO ¿QUÉ ES?
 
 Un comentario en programación es un texto que se incluye en el código fuente de un programa, pero que no es ejecutado por la computadora. Los comentarios se utilizan para añadir explicaciones, anotaciones o notas dentro del código, lo que ayuda a los programadores a entender mejor el código que han escrito o el código de otros. Los comentarios son útiles para documentar el propósito de ciertas partes del código, aclarar lógica compleja, o simplemente dejar recordatorios para el futuro.
 
-#### 1. Comentarios de una sola línea
+### 1. Comentarios de una sola línea
 Se usan para escribir comentarios breves en una sola línea. Para esto, se utiliza //.
 ```
     // Esto es un comentario en 1 línea.
 ```
 
-#### 2. Comentarios de múltiples líneas
+### 2. Comentarios de múltiples líneas
 Se utilizan cuando quieres hacer un comentario más largo o comentar varias líneas de código a la vez. Para esto, se utiliza /* */.
 ```
     /* 
@@ -53,7 +53,7 @@ Se utilizan cuando quieres hacer un comentario más largo o comentar varias lín
 
 
 ## VARIABLES
-#### TIPOS DE DATOS
+### TIPOS DE DATOS
 
 ```
     int: Enteros (números sin decimales)
@@ -64,7 +64,7 @@ Se utilizan cuando quieres hacer un comentario más largo o comentar varias lín
     string: Cadena de caracteres
 ```
 
-#### DECLARACIÓN DE VARIABLES
+### DECLARACIÓN DE VARIABLES
 ```
     int edad = 25;            // Entero
     double altura = 1.75;     // Decimal (mayor precisión)
@@ -75,12 +75,12 @@ Se utilizan cuando quieres hacer un comentario más largo o comentar varias lín
 ```
 
 ## IMPRIMIR POR PANTALLA
-#### IMPRIMIR SOLO TEXTO
+### IMPRIMIR SOLO TEXTO
 ```
     Console.WriteLine("Hola Mundo");
 ```
 
-#### IMPRIMIR CONTENIDO DE UNA VARIABLE
+### IMPRIMIR CONTENIDO DE UNA VARIABLE
 ```
     int edad = 25;
     Console.WriteLine("La edad es: " + edad);
@@ -89,7 +89,7 @@ Se utilizan cuando quieres hacer un comentario más largo o comentar varias lín
 ```
 ## EXPRESIONES
 
-#### 1. Expresiones Literales:
+### 1. Expresiones Literales:
 Son valores fijos que no cambian.  
 Ejemplos:
 - `5` (entero)
@@ -98,7 +98,7 @@ Ejemplos:
 - `'A'` (carácter)
 - `true` o `false` (booleano)
 
-#### 2. Expresiones de Variable:
+### 2. Expresiones de Variable:
 Son expresiones que contienen una variable. El valor de la variable es el resultado de la expresión.  
 Ejemplo:
 ```csharp
@@ -106,7 +106,7 @@ int x = 10;
 var y = x;  // 'y' es una expresión que toma el valor de 'x', que es 10
 ```
 
-#### 3. Expresiones Aritméticas:
+### 3. Expresiones Aritméticas:
 Realizan operaciones matemáticas sobre valores numéricos.  
 Ejemplos:
 - `a + b` (suma)
@@ -114,7 +114,7 @@ Ejemplos:
 - `10 / 3` (división)
 - `100 % 7` (módulo)
 
-#### 4. Expresiones de Comparación:
+### 4. Expresiones de Comparación:
 Retornan un valor booleano (true o false).  
 Operadores de comparación:
 - `==` (igual)
@@ -130,7 +130,7 @@ int a = 5;
 bool resultado = (a > 3);  // resultado es 'true'
 ```
 
-#### 5. Expresiones Lógicas:
+### 5. Expresiones Lógicas:
 Combinan valores booleanos mediante operadores lógicos.  
 Operadores lógicos:
 - `&&` (Y lógico)
@@ -144,7 +144,7 @@ bool b = false;
 bool resultado = (a && b);  // resultado es 'false'
 ```
 
-#### 6. Expresiones de Asignación:
+### 6. Expresiones de Asignación:
 El valor de una variable es asignado mediante el operador `=`.  
 Ejemplo:
 ```csharp
@@ -152,7 +152,7 @@ int x = 5;
 int y = x + 10;  // 'y' es asignado a 15, que es el resultado de la expresión 'x + 10'
 ```
 
-#### 7. Expresiones Condicionales (Ternarias):
+### 7. Expresiones Condicionales (Ternarias):
 Es una forma abreviada de una instrucción `if-else`.  
 Sintaxis:
 ```csharp
@@ -165,21 +165,21 @@ int edad = 18;
 string mensaje = (edad >= 18) ? "Eres mayor de edad" : "Eres menor de edad";
 ```
 
-#### 8. Expresiones de Invocación de Métodos:
+### 8. Expresiones de Invocación de Métodos:
 Invocan un método que devuelve un valor.  
 Ejemplo:
 ```csharp
 int suma = Math.Abs(-5);  // Llama al método 'Abs' de la clase Math, que devuelve 5
 ```
 
-#### 9. Expresiones de Acceso a Propiedades o Campos:
+### 9. Expresiones de Acceso a Propiedades o Campos:
 Acceden a propiedades o campos de una clase, objeto o estructura.  
 Ejemplo:
 ```csharp
 string nombre = persona.Nombre;  // 'persona.Nombre' es una expresión que obtiene el valor de la propiedad 'Nombre'
 ```
 
-#### 10. Expresiones Lambda:
+### 10. Expresiones Lambda:
 Son una forma concisa de representar funciones anónimas.  
 Sintaxis:
 ```csharp
@@ -192,14 +192,14 @@ Func<int, int, int> suma = (a, b) => a + b;
 int resultado = suma(3, 4);  // resultado es 7
 ```
 
-#### 11. Expresiones de Inicialización:
+### 11. Expresiones de Inicialización:
 Permiten inicializar colecciones u objetos.  
 Ejemplo de inicialización de una lista:
 ```csharp
 List<int> lista = new List<int> { 1, 2, 3, 4, 5 };
 ```
 
-#### 12. Expresiones de Type-Casting:
+### 12. Expresiones de Type-Casting:
 Permiten convertir un valor de un tipo a otro.  
 Ejemplo:
 ```csharp
@@ -207,7 +207,7 @@ double pi = 3.14;
 int piEntero = (int)pi;  // Pi se convierte en 3
 ```
 
-#### 13. Expresiones de Null-Coalescing:
+### 13. Expresiones de Null-Coalescing:
 El operador de coalescencia nula (`??`) proporciona un valor por defecto si el primer valor es `null`.  
 Ejemplo:
 ```csharp
@@ -218,7 +218,7 @@ string resultado = nombre ?? "Desconocido";  // 'resultado' será "Desconocido"
 
 ## OPERADORES ARITMETICOS
 
-#### 1. Operadores Aritméticos:
+### 1. Operadores Aritméticos:
 Estos son los operadores que permiten realizar cálculos matemáticos básicos:
 
 - `+` (Suma): Suma dos operandos.  
@@ -237,7 +237,7 @@ Estos son los operadores que permiten realizar cálculos matemáticos básicos:
 - `%` (Módulo o residuo): Devuelve el resto de la división entre dos operandos.  
   Ejemplo: `5 % 2 = 1`
 
-#### 2. Precedencia de los Operadores Aritméticos:
+### 2. Precedencia de los Operadores Aritméticos:
 La precedencia determina el orden en que se evaluan los operadores en una expresión. Los operadores con mayor precedencia se ejecutan primero.
 
 | Operador    | Descripción                  | Precedencia |
@@ -245,7 +245,7 @@ La precedencia determina el orden en que se evaluan los operadores en una expres
 | `*`, `/`, `%` | Multiplicación, división, módulo | 14          |
 | `+`, `-`    | Suma, resta                   | 13          |
 
-#### 3. Asociatividad de los Operadores Aritméticos:
+### 3. Asociatividad de los Operadores Aritméticos:
 Los operadores aritméticos tienen **asociatividad de izquierda a derecha**, lo que significa que los operadores de igual precedencia se evaluarán de izquierda a derecha.
 
 **Ejemplo 1**:
@@ -257,14 +257,14 @@ Los operadores aritméticos tienen **asociatividad de izquierda a derecha**, lo 
   Se evalúa de izquierda a derecha:  
   Primero se evalúa la resta: `10 - 3 = 7`, luego la suma: `7 + 2 = 9`.
 
-#### 4. Uso de Paréntesis para Modificar la Precedencia:
+### 4. Uso de Paréntesis para Modificar la Precedencia:
 Los paréntesis tienen la **mayor precedencia** y pueden modificar el orden en que se evalúan las expresiones.
 
 **Ejemplo**:
 - Expresión: `5 + 3 * 2` (resultado: 11, porque primero se hace `3 * 2` y luego se suma `5`)
 - Expresión con paréntesis: `(5 + 3) * 2` (resultado: 16, porque primero se suma `5 + 3` y luego se multiplica por `2`)
 
-#### Resumen:
+### Resumen:
 - **Precedencia**: Define el orden de evaluación de los operadores.
 - **Asociatividad**: Los operadores aritméticos tienen asociatividad de izquierda a derecha.
 
@@ -272,7 +272,7 @@ Los paréntesis tienen la **mayor precedencia** y pueden modificar el orden en q
 
 ### CONVERSIÓN DE TIPOS EN C#
 
-#### 1. Conversión Implícita (Automática):
+### 1. Conversión Implícita (Automática):
 En algunos casos, el compilador realiza automáticamente la conversión entre tipos sin necesidad de intervención del programador. Esto ocurre cuando no hay pérdida de datos entre los tipos.
 
 **Ejemplos**:
@@ -284,7 +284,7 @@ En algunos casos, el compilador realiza automáticamente la conversión entre ti
   `float numeroFloat = 3.14f;`  
   `double numeroDouble = numeroFloat;`  // Conversión implícita
 
-#### 2. Conversión Explícita (Type Casting):
+### 2. Conversión Explícita (Type Casting):
 Cuando el compilador no puede realizar la conversión automáticamente, se debe usar un **type cast** explícito.
 
 **Ejemplos**:
@@ -296,7 +296,7 @@ Cuando el compilador no puede realizar la conversión automáticamente, se debe 
   `float numeroFloat = 3.99f;`  
   `int numeroEntero = (int)numeroFloat;`  // Conversión explícita
 
-#### 3. Conversión Usando Métodos de Conversión Estática (Convert):
+### 3. Conversión Usando Métodos de Conversión Estática (Convert):
 La clase `Convert` permite realizar conversiones entre varios tipos de manera segura.
 
 **Ejemplo**:  
@@ -313,7 +313,7 @@ La clase `Convert` permite realizar conversiones entre varios tipos de manera se
   `string texto = "123";`  
   `int numero = Convert.ToInt32(texto);`  // Convierte un string a int
 
-#### 4. Métodos de Parseo (Parse):
+### 4. Métodos de Parseo (Parse):
 La función `Parse` también convierte entre tipos, pero puede lanzar excepciones si el valor no es convertible.
 
 **Ejemplo**:  
@@ -323,12 +323,12 @@ La función `Parse` también convierte entre tipos, pero puede lanzar excepcione
 **Excepciones comunes**:
 - Si el string no puede convertirse en el tipo deseado, lanzará una excepción `FormatException`.
 
-#### Uso de TryParse (para evitar excepciones):
+### Uso de TryParse (para evitar excepciones):
   `string texto = "789";`  
   `int numero;`  
   `bool exito = int.TryParse(texto, out numero);`  // Devuelve 'true' si la conversión es exitosa
 
-#### 5. Conversión entre Tipos Personalizados (Clase o Estructura):
+### 5. Conversión entre Tipos Personalizados (Clase o Estructura):
 Puedes definir conversiones personalizadas entre tipos en tus propias clases o estructuras usando los operadores de conversión.
 
 **Ejemplo**:
@@ -349,7 +349,7 @@ Puedes definir conversiones personalizadas entre tipos en tus propias clases o e
   var tupla = (ValueTuple<int, int>)p;  // Conversión explícita
   ```
 
-#### Resumen de Conversión de Tipos:
+### Resumen de Conversión de Tipos:
 
 | Tipo de Conversión        | Descripción                                | Ejemplo                |
 |---------------------------|--------------------------------------------|------------------------|
@@ -379,58 +379,58 @@ Type tipoAltitud2 = altitudStr2.GetType();    // Tipo: System.String
 
 
 ## LISTAS
-#### TIPOS DE DATOS
+### TIPOS DE DATOS
 ```
     using System.Collections.Generic;
 
     List<int> numeros = new List<int>();  // Lista de enteros
     List<string> nombres = new List<string>();  // Lista de cadenas
 ```
-#### AÑADIR ELEMENTOS A LA LISTA
+### AÑADIR ELEMENTOS A LA LISTA
 ```
     numeros.Add(10);
     numeros.Add(20);
     numeros.Add(30);
 ```
 
-#### AÑADIR VARIOS ELEMENTOS DEL TIRON A LA LISTA
+### AÑADIR VARIOS ELEMENTOS DEL TIRON A LA LISTA
 ```
     numeros.AddRange(new int[] { 40, 50, 60 });
 
 ```
 
-#### INSERTAR EN UNA POSICIÓN ESPECIFICA
+### INSERTAR EN UNA POSICIÓN ESPECIFICA
 ```
     numeros.Insert(1, 15);  // Inserta el número 15 en el índice 1
 ```
 
-#### ACCESO A LOS ELEMENTOS
+### ACCESO A LOS ELEMENTOS
 ```
     Console.WriteLine(numeros[0]);  // Salida: 10
     Console.WriteLine(numeros[2]);  // Salida: 30
 ```
-#### TAMAÑO DE LA LISTA
+### TAMAÑO DE LA LISTA
 ```
     Console.WriteLine(numeros.Count);  // Salida: 3
 ```
-#### REVERSE
+### REVERSE
 ```
             lista.Reverse();
 ```
 
-#### ELIMINAR UN ELEMENTO
+### ELIMINAR UN ELEMENTO
 Elimina la primera aparición de un valor en la lista.
 ```
     numeros.Remove(20);  // Elimina el número 20 de la lista
 ```
 
-#### ELIMINAR ELEMENTO DE UNA POSICION ESPECIFICA
+### ELIMINAR ELEMENTO DE UNA POSICION ESPECIFICA
 ```
     numeros.RemoveAt(0);  // Elimina el primer elemento de la lista
 
 ```
 
-#### BUSCAR UN ELEMENTO
+### BUSCAR UN ELEMENTO
 Devuelve true si un elemento está presente en la lista, de lo contrario false.
 
 ```
@@ -441,19 +441,19 @@ Devuelve true si un elemento está presente en la lista, de lo contrario false.
 
 ```
 
-#### ORDENAR ELEMENTOS
+### ORDENAR ELEMENTOS
 
 ```
     numeros.Sort();
 ```
 
-#### LIMPIAR LA LISTA
+### LIMPIAR LA LISTA
 
 ```
     numeros.Clear();
 ```
 
-#### CONVERTIR UNA LISTA DE STRING A INT
+### CONVERTIR UNA LISTA DE STRING A INT
 
 ```
     List<int> listaEnteros = listaStrings.ConvertAll(int.Parse);
@@ -475,11 +475,65 @@ Devuelve true si un elemento está presente en la lista, de lo contrario false.
 ```
 
 
+## CONDICIONALES EN C#
 
+Los condicionales en C# permiten tomar decisiones en función de condiciones evaluadas como verdaderas o falsas. Las estructuras condicionales más comunes son `if`, `else if`, `else` y `switch`.
 
+### IF, ELSE IF y ELSE
 
+La estructura `if` se utiliza para ejecutar un bloque de código si una condición es verdadera. Se puede combinar con `else if` para evaluar múltiples condiciones y con `else` para ejecutar un bloque de código si ninguna de las condiciones anteriores es verdadera.
 
+```csharp
+  int numero = 10;
 
+  if (numero > 0)
+  {
+      Console.WriteLine("El número es positivo."); // Se ejecuta si la condición es verdadera.
+  }
+  else if (numero < 0)
+  {
+      Console.WriteLine("El número es negativo."); // Se ejecuta si la primera condición es falsa y esta es verdadera.
+  }
+  else
+  {
+      Console.WriteLine("El número es cero."); // Se ejecuta si ninguna de las condiciones anteriores es verdadera.
+  }
 
+```
 
+### SWITCH
 
+La estructura switch se utiliza para seleccionar una de muchas opciones posibles. Es una alternativa más legible a múltiples if anidados. Se basa en la evaluación de una expresión y se compara con diferentes casos.
+
+```csharp
+  int dia = 3;
+
+  switch (dia)
+  {
+      case 1:
+          Console.WriteLine("Lunes");
+          break; // Salir del switch
+      case 2:
+          Console.WriteLine("Martes");
+          break;
+      case 3:
+          Console.WriteLine("Miércoles");
+          break;
+      case 4:
+          Console.WriteLine("Jueves");
+          break;
+      case 5:
+          Console.WriteLine("Viernes");
+          break;
+      case 6:
+          Console.WriteLine("Sábado");
+          break;
+      case 7:
+          Console.WriteLine("Domingo");
+          break;
+      default:
+          Console.WriteLine("Número de día no válido."); // Se ejecuta si no coincide con ningún case
+          break;
+  }
+
+```
