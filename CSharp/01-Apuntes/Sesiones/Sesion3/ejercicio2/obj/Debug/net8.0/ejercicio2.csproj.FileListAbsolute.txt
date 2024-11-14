@@ -1,0 +1,15 @@
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\bin\Debug\net8.0\ejercicio2.exe
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\bin\Debug\net8.0\ejercicio2.deps.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\bin\Debug\net8.0\ejercicio2.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\bin\Debug\net8.0\ejercicio2.pdb
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.sourcelink.json
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\refint\ejercicio2.dll
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.pdb
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+C:\Escritorio\Pria\CSharp\01-Apuntes\Sesiones\Sesion3\ejercicio2\obj\Debug\net8.0\ref\ejercicio2.dll

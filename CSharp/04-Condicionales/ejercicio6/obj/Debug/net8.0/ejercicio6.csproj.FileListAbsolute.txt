@@ -1,0 +1,15 @@
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\bin\Debug\net8.0\ejercicio6.exe
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\bin\Debug\net8.0\ejercicio6.deps.json
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\bin\Debug\net8.0\ejercicio6.runtimeconfig.json
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\bin\Debug\net8.0\ejercicio6.dll
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\bin\Debug\net8.0\ejercicio6.pdb
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.AssemblyInfoInputs.cache
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.AssemblyInfo.cs
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.sourcelink.json
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.dll
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\refint\ejercicio6.dll
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.pdb
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ejercicio6.genruntimeconfig.cache
+C:\Escritorio\Pria\CSharp\04-Condicionales\ejercicio6\obj\Debug\net8.0\ref\ejercicio6.dll
