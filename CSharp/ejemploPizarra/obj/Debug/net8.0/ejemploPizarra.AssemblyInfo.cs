@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejemploPizarra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f880c63f408685170305450ca7fcf4d4cbfa153e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09768e30138adf96e327c8482b08d672d6ea7ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejemploPizarra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejemploPizarra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
