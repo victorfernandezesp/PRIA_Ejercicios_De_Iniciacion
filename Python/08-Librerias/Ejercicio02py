@@ -1,0 +1,24 @@
+""" 
+
+    2. En la web oficial del lenguaje de programación (si no existe, en una web no oficial), entra en su documentación y ejecuta 3 ejemplos donde se usen sus librerías internas/estándar.
+
+    @author Victor Fernandez España
+
+"""
+
+from datetime import datetime
+import random
+import math
+
+
+print("Ejemplo 1")
+print("Fecha y hora actual: ", datetime.now())
+print("\n")
+
+print("Ejemplo 2")
+print("Número aleatorio entre 1 y 10: ", random.randint(1, 10))
+print("\n")
+
+print("Ejemplo 3")
+print("Raíz cuadrada de 25: ", math.sqrt(25))
+print("\n")
